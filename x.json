@@ -35,7 +35,7 @@
    "ext": "https://wing.run.goorm.io/admin/view/小猫咪.js"
   },
 {"key": "csp_xpath_duboku2","name": "🚩独播库","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://wingzoho.eu.org/xpath/duboku2.json"},
-{"key": "csp_xpath_voflix","name": "💢VOFLIX HD","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://wingzoho.eu.org/xpath/voflix.json"},
+{"key": "csp_xpath_voflix","name": "💢VOFLIX HD","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/wing0110210317/zxy/master/voflix.json?token=GHSAT0AAAAAABYBASZWLAIO2A5EHINJTWRWY5EDFSQ"},
 {"key": "csp_xpath_52hntv","name": "🐬海纳TV","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://wingzoho.eu.org/xpath/52hntv.json"},
 {"key": "csp_Lgyy","name": "🐦蓝光影院","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_xpath_olevod","name":"♓欧乐影院","type":3,"api":"csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://wingzoho.eu.org/xpath/olevod.json"},
