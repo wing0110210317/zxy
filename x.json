@@ -1,6 +1,6 @@
 {
     "sites": [
-{"key": "csp_xpath_pianku","name": "📚片库网","type": 3,"api": "csp_XPathFilter","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/wing0110210317/zxy/master/piaku.json?token=GHSAT0AAAAAABYBASZXM3DFR6X43QFNXDH4Y5EC7IA"},
+{"key": "csp_xpath_pianku","name": "📚片库网","type": 3,"api": "csp_XPathFilter","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/wing0110210317/zxy/master/piaku.json?token=GHSAT0AAAAAABYBASZWA7GKN4LA436UUX5AY5EDENA"},
 { "key": "dr_天空影视", "name": "🌠天空影视", "type": 3, "api": "https://wing.run.goorm.io/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://wing.run.goorm.io/admin/view/天空影视.js" },
 { "key": "dr_番茄影视", "name": "🍅番茄影视", "type": 3, "api": "https://wing.run.goorm.io/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://wing.run.goorm.io/admin/view/番茄影视.js" },
 { "key": "dr_8号影院", "name": "🎀8号影院", "type": 3, "api": "https://wing.run.goorm.io/libs/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://wing.run.goorm.io/admin/view/8号影院.js" },
