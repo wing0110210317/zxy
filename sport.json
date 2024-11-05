@@ -3,29 +3,6 @@
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
-            "key": "企鹅体育",
-            "name": "企鹅｜体育",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "style": {
-                "type": "list"
-            },
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/体育/XPath/企鹅体育.json"
-        },
-        {
-            "key": "武享吧",
-            "name": "武享吧｜格斗",
-            "type": 3,
-            "api": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/体育/JS/drpy2.min.js",
-            "style": {
-                "type": "list"
-            },
-            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/体育/JS/武享吧.js"
-        },
-        {
             "key": "88看球",
             "name": "⚾️88看球",
             "type": 3,
@@ -48,6 +25,29 @@
                 "type": "list"
             },
             "ext": "https://hjdhnx.github.io/dr_py/js/310直播.js"
+        },
+        {
+            "key": "企鹅体育",
+            "name": "企鹅｜体育",
+            "type": 3,
+            "api": "csp_XPath",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "style": {
+                "type": "list"
+            },
+            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/体育/XPath/企鹅体育.json"
+        },
+        {
+            "key": "武享吧",
+            "name": "武享吧｜格斗",
+            "type": 3,
+            "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
+            "style": {
+                "type": "list"
+            },
+            "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/体育/JS/武享吧.js"
         },
         {
             "key": "360吧",
