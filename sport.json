@@ -71,6 +71,62 @@
             },
             "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/体育/JS/360吧.js"
         },
+         {
+      "name": "肥羊国内直播",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "ext": "http://127.0.0.1:35345/tv.m3u",
+      "jar": "https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
+    },
+    {
+      "name": "肥羊咪咕电视直播",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "ext": "http://127.0.0.1:35345/migu.m3u",
+      "jar": "https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
+    },
+    {
+      "name": "肥羊咪咕赛事直播",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "ext": "http://127.0.0.1:35345/miguevent.m3u",
+      "jar": "https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
+    },
+    {
+      "name": "肥羊TPTV",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "ext": "http://127.0.0.1:35345/tptv.m3u",
+      "jar": "https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
+    },
+    {
+      "name": "肥羊虎牙一起看",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "ext": "http://127.0.0.1:35345/huyayqk.m3u?url=http://127.0.0.1:35345",
+      "jar": "https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
+    },
+    {
+      "name": "肥羊B站直播",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "ext": "http://127.0.0.1:35345/bililive.m3u?url=http://127.0.0.1:35345",
+      "jar": "https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
+    },
+    {
+      "name": "肥羊斗鱼一起看",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "ext": "http://127.0.0.1:35345/douyuyqk.m3u?url=http://127.0.0.1:35345",
+      "jar": "https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
+    },
+    {
+      "name": "肥羊YY轮播",
+      "type": 3,
+      "api": "csp_Feiyang",
+      "ext": "http://127.0.0.1:35345/yylunbo.m3u?url=http://127.0.0.1:35345",
+      "jar": https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
+    },
 {
             "key": "push_agent",
             "name": "手机｜推送",
@@ -151,62 +207,6 @@
             "url": "https://tv.iill.top/m3u/Gather",
             "playerType": 1
         },
-        {
-      "name": "肥羊国内直播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "ext": "http://127.0.0.1:35345/tv.m3u",
-      "jar": "https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
-    },
-    {
-      "name": "肥羊咪咕电视直播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "ext": "http://127.0.0.1:35345/migu.m3u",
-      "jar": "https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
-    },
-    {
-      "name": "肥羊咪咕赛事直播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "ext": "http://127.0.0.1:35345/miguevent.m3u",
-      "jar": "https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
-    },
-    {
-      "name": "肥羊TPTV",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "ext": "http://127.0.0.1:35345/tptv.m3u",
-      "jar": "https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
-    },
-    {
-      "name": "肥羊虎牙一起看",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "ext": "http://127.0.0.1:35345/huyayqk.m3u?url=http://127.0.0.1:35345",
-      "jar": "https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
-    },
-    {
-      "name": "肥羊B站直播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "ext": "http://127.0.0.1:35345/bililive.m3u?url=http://127.0.0.1:35345",
-      "jar": "https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
-    },
-    {
-      "name": "肥羊斗鱼一起看",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "ext": "http://127.0.0.1:35345/douyuyqk.m3u?url=http://127.0.0.1:35345",
-      "jar": "https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
-    },
-    {
-      "name": "肥羊YY轮播",
-      "type": 3,
-      "api": "csp_Feiyang",
-      "ext": "http://127.0.0.1:35345/yylunbo.m3u?url=http://127.0.0.1:35345",
-      "jar": https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
-    },
 {"name": "EPG全球娱乐節目","type": 0,"url": "https://epg.pw/test_channels_unknown.txt","epg": "https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"},
 {"name": "EPG全球電視節目","type": 0,"url": "https://epg.pw/test_channels_all.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}
     ],
