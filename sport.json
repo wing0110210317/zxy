@@ -125,7 +125,7 @@
       "type": 3,
       "api": "csp_Feiyang",
       "ext": "http://127.0.0.1:35345/yylunbo.m3u?url=http://127.0.0.1:35345",
-      "jar": https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
+      "jar": "https://github.com/wing0110210317/zxy/raw/refs/heads/master/fm.jar"
     },
 {
             "key": "push_agent",
