@@ -17,6 +17,21 @@
                 "password": "zxy82171240"
             }
         },
+        {
+            "key": "EmbyP",
+            "name": "EmbyP｜4K",
+            "type": 4,
+            "api": "https://xielouzhesi.fongmi.leuse.top/csp/embyx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "host": "http://192.168.1.8:8096",
+                "username": "wing",
+                "password": "zxy82171240"
+            }
+        },
 #{"key": "88看球","name": "⚾️88看球","type": 3,"api": "https://raw.githubusercontent.com/wing0110210317/zxy/refs/heads/master/drpy2.min.js","style": {"type": "list"},"ext": "https://raw.githubusercontent.com/wing0110210317/zxy/refs/heads/master/88kanqiu.js"},
 {"key": "csp_XYQHiker_无插件直播","name": "⛳无插件直播","type": 3,"api": "csp_XYQHiker","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.githubusercontent.com/wing0110210317/zxy/refs/heads/master/wuchajian.json","style":{ "type":"rect", "ratio":1.33 },"jar":"https://github.com/wing0110210317/zxy/raw/refs/heads/master/xyq.jar"},
 {"key": "dr_JRKAN直播","name": "⚽️JRKAN直播","type": 3,"api": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","style": {"type": "list"},"searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
